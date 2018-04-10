@@ -1,5 +1,8 @@
 {
   "name": "@ff0000-ad-tech/binary-imports",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
