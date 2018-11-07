@@ -12,6 +12,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+	"engines": {
+		"node": ">=9.8.0",
+		"npm": ">=6.0.0"
+	},
   "dependencies": {
     "rollup-pluginutils": "^2.0.1"
   },
